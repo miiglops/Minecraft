@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(90deg, black, red);
+}
+
+nav {
+    background-color: white;
+    border-radius: 50px;
+    height: 100px;
+    width: 700px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 25%;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+li{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    text-align: center;
+    justify-content: center;
+}
+a {
+    font-size: 20pt;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: justify;
+    padding: 20px;
+    margin-top: 100px;
+}
+
+#tudo {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+}
