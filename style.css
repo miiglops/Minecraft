@@ -1,0 +1,61 @@
+header {
+    background-image: url(assets/de-fundo-vector-jogo-de-pixel-com-grama-de-pixel-de-bloco-cubico-e-padrao-de-solo-cena-de-paisagem-natural-com-gramado-verde-solo-marrom-e-mosaico-de-rochas-nivel-de-jogo-de-arcade-de-8-bit.avif);
+    height: 150px;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #01babc;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    right: 20px;
+    left: 20px;
+    text-decoration: none;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.nav{
+    text-decoration: none;
+    font-size: 20pt;
+    color: white;
+}
+
+#imagem{
+    margin-top: 100px;
+    width: 650px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+#conteudo {
+    display: flex;
+    flex-direction: row;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
